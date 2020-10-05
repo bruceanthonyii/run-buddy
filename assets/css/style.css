@@ -23,7 +23,7 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
+    display: inline-block;
 }
 
 /* header nav */
@@ -86,6 +86,12 @@ section {
     background-position: center;
     position: relative;
 }
+
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
+
 /*hero style end*/
 
 /*hero form*/
