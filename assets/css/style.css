@@ -260,25 +260,18 @@ p {
     color: #fce138;
 }
 
-.contact iframe {
+.contact-info iframe {
     width: 400px;
     height: 400px;
 }
 
-.contact-info {
+.contact-info div {
     text-align: left;
     display: inline-block;
-}
-
-
-.contact-info div {
-    width: 410px;
-    height: 350px;
     vertical-align: top;
-    text-align: left;
     margin: 30px 0 0 60px;
     color: white;
-    float: right;
+    width: 410px;
 }
 
 .contact-info h3 {
@@ -286,8 +279,8 @@ p {
     font-size: 32px;
 }
 
+
 .contact-info address, .contact-info p   {
-    color: white;
     font-style: normal;
     margin: 20px 0;
     font-size: 20px;
@@ -297,3 +290,4 @@ p {
 .contact-info address a {
     color: #fce138;
 }
+/*Reach Out complete*/
